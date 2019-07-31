@@ -1,1 +1,1 @@
-
+Here is my final project for the data visualization course I took this summer. I rendered my viz' in jupyter notebook using folium (leaflet backend) and plotly. Unforutnately the HTML attached for the two folium viz csnnot be rendered in github as they're too big. The plotly one (challenge_4.html) does work, however. In the end my viz can be seen [here](https://nbviewer.jupyter.org/github/nbc270/data_visualization_final/blob/master/data_viz_final_project_images.ipynb).
